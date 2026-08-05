@@ -108,7 +108,7 @@ export default function TeamPage() {
       <footer className="team-contact">
         <p>Work with Darmor Holdings</p>
         <a href="mailto:inquiries@darmorholdings.com">
-          Start a conversation <span aria-hidden="true">↗</span>
+          Start a conversation <span aria-hidden="true">↗︎</span>
         </a>
         <div className="team-contact__bottom">
           <img src="/brand/darmor-holdings-logo-light.png" alt="Darmor Holdings" />
