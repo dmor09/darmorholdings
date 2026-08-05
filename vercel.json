@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd darmor-holdings-vercel-ready && npm run build",
+  "outputDirectory": "darmor-holdings-vercel-ready/.next",
+  "framework": "nextjs"
+}
