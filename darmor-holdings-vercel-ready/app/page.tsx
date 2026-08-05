@@ -46,7 +46,7 @@ export default function Home() {
           <p>We acquire, operate and steward exceptional real estate.</p>
           <a href="#properties" className="explore-link">
             <span>Explore our portfolio</span>
-            <span aria-hidden="true">↓</span>
+            <span aria-hidden="true">↓︎</span>
           </a>
         </div>
       </section>
@@ -128,7 +128,7 @@ export default function Home() {
         <div className="contact__main">
           <p>Investment and partnership inquiries</p>
           <a href="mailto:inquiries@darmorholdings.com">
-            inquiries@darmorholdings.com <span aria-hidden="true">↗</span>
+            inquiries@darmorholdings.com <span aria-hidden="true">↗︎</span>
           </a>
         </div>
         <div className="contact__brand">
