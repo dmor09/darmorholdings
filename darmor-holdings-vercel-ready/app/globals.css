@@ -185,7 +185,7 @@ em { color: var(--gold); font-weight: 400; }
 .property__meta { display: grid; grid-template-columns: .45fr 2fr 1fr 1.2fr auto; gap: 24px; align-items: center; min-height: 102px; }
 .property__meta h3 { margin: 0; font-family: var(--font-serif), Georgia, serif; font-size: clamp(25px, 3vw, 42px); font-weight: 400; letter-spacing: -.02em; text-transform: none; }
 .property__meta > span:not(:first-child):not(.property__arrow) { color: rgba(255,255,255,.55); }
-.property__arrow { color: var(--gold); font-size: 20px; transition: transform .3s ease; font-family: "Segoe UI Symbol", "Apple Color Emoji", sans-serif; }
+.property__arrow { color: var(--gold); font-size: 20px; transition: transform .3s ease; font-family: "Courier New", monospace; letter-spacing: -2px; }
 .property:hover .property__media { height: 48vh; }
 .property:hover .property__media img { transform: scale(1.025); filter: saturate(.8) contrast(1.02); }
 .property:hover .property__arrow { transform: translate(4px,-4px); }
