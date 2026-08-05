@@ -1,7 +1,7 @@
 const properties = [
   {
     number: "01",
-    name: "Garfield, NJ",
+    name: "36 Division Ave",
     type: "Multifamily",
     location: "Garfield, New Jersey",
     image: "/images/residences.jpg",
