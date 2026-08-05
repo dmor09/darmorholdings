@@ -91,7 +91,7 @@ export default function Home() {
                 <h3>{property.name}</h3>
                 <span>{property.type}</span>
                 <span>{property.location}</span>
-                <span className="property__arrow" aria-hidden="true">↗</span>
+                <span className="property__arrow" aria-hidden="true">↗︎</span>
               </div>
             </article>
           ))}
