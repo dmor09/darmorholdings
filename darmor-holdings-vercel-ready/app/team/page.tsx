@@ -31,14 +31,14 @@ const owners = [
   {
     initials: "YK",
     name: "Yeno Konya",
-    image: "/team/yeno-konya-enhanced.png",
-    bio: "Yeno leads talent for Ramp’s product organization, with 140+ hires across Product, Product Operations, AI Operations, and Customer Experience. Previously, Yeno led product and design sourcing at Uber and conducted executive searches across finance, compliance, and legal at JW Michaels. Yeno holds a B.S. in Accounting from William Paterson University.",
+    image: "/team/yeno-konya-preview.png",
+    bio: "Yeno Konya is co-owner of Darmor Holdings, bringing experience in organizational leadership, executive search, and building high-performing teams at Ramp and Uber. His operator’s perspective informs Darmor’s approach to disciplined growth, strong partnerships, and long-term ownership. He holds a B.S. in Accounting from William Paterson University.",
   },
   {
     initials: "MB",
     name: "Michael Birch",
     image: "/team/michael-birch.jpeg",
-    bio: "Michael is an experienced banking relationship manager with expertise in loan structuring, financial risk, corporate finance, and financial analysis. His work centers on building durable client relationships and navigating complex credit and risk decisions. Michael holds a B.A. in Economics from William Paterson University.",
+    bio: "Michael Birch is co-owner of Darmor Holdings and a commercial banker with more than a decade of experience in lending, credit, and portfolio management. His expertise in underwriting and risk informs Darmor’s disciplined approach to real estate investment and long-term ownership. He holds a B.A. in Economics from William Paterson University.",
   },
 ];
 
