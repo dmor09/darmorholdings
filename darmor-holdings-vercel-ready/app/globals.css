@@ -190,9 +190,9 @@ em { color: var(--gold); font-weight: 400; }
 .property:hover .property__media img { transform: scale(1.025); filter: saturate(.8) contrast(1.02); }
 .property:hover .property__arrow { transform: translate(4px,-4px); }
 
-.approach { min-height: 90vh; }
-.approach__main { display: flex; flex-direction: column; justify-content: space-between; }
-.approach__grid { display: grid; grid-template-columns: 1fr 1.35fr; gap: 9vw; align-items: end; margin-top: 100px; }
+.approach { min-height: auto; padding-top: 92px; padding-bottom: 110px; }
+.approach__main { display: block; }
+.approach__grid { display: grid; grid-template-columns: .9fr 1.35fr; gap: 7vw; align-items: start; margin-top: 78px; }
 .approach__grid > p { margin: 0; font-family: var(--font-serif), Georgia, serif; font-size: clamp(20px, 2vw, 29px); line-height: 1.48; }
 .principles div { display: grid; grid-template-columns: 70px 1fr; align-items: center; padding: 24px 0; border-top: 1px solid var(--line); }
 .principles span { font-size: 10px; color: var(--gold); }

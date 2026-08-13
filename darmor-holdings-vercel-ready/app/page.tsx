@@ -102,9 +102,9 @@ export default function Home() {
         <div className="section-index">03 / Approach</div>
         <div className="approach__main">
           <h2 id="approach-title">
-            Patient capital.
+            Selective investing.
             <br />
-            <em>Active ownership.</em>
+            <em>Thoughtful execution.</em>
           </h2>
           <div className="approach__grid">
             <p>
@@ -112,9 +112,9 @@ export default function Home() {
               thoughtfully, and remain accountable for every outcome.
             </p>
             <div className="principles">
-              <div><span>01</span><strong>Discipline</strong></div>
-              <div><span>02</span><strong>Stewardship</strong></div>
-              <div><span>03</span><strong>Durability</strong></div>
+              <div><span>01</span><strong>Conviction</strong></div>
+              <div><span>02</span><strong>Alignment</strong></div>
+              <div><span>03</span><strong>Resilience</strong></div>
             </div>
           </div>
         </div>
