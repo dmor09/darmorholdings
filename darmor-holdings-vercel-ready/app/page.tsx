@@ -56,9 +56,9 @@ export default function Home() {
         <div className="statement__copy">
           <p className="kicker">Quiet conviction. Lasting value.</p>
           <h2 id="statement-title">
-            Real estate measured
+            Real estate grounded in
             <br />
-            in <em>generations.</em>
+            <em>discipline.</em>
           </h2>
           <p className="statement__body">
             Darmor Holdings is a privately held real estate company focused on
