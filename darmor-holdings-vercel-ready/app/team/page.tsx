@@ -31,7 +31,7 @@ const owners = [
   {
     initials: "YK",
     name: "Yeno Konya",
-    image: "/team/yeno-konya-preview.png",
+    image: "/team/yeno-konya-expanded.png",
     bio: "Yeno Konya is co-owner of Darmor Holdings, bringing experience in organizational leadership, executive search, and building high-performing teams at Ramp and Uber. His operator’s perspective informs Darmor’s approach to disciplined growth, strong partnerships, and long-term ownership. He holds a B.S. in Accounting from William Paterson University.",
   },
   {
